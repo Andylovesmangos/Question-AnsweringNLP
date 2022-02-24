@@ -1,6 +1,8 @@
 # Question-AnsweringNLP
 A question-answering model that aims to answer questions in quizbowl format. Uses a pre-trained transformers model from HuggingFace.
 
+Final Project for CMSC470 by Yiming Lee, Timothy Yang, and Yusuf Abdullah.
+
 Requirements
 ================
 
